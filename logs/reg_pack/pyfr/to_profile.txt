@@ -1,0 +1,50 @@
+quad
+hex
+tri
+tet
+
+quad plot group 1:
+example_mats_med/quad/p5/gauss-legendre-lobatto/m132.txt
+example_mats_med/quad/p5/gauss-legendre-lobatto/m460.txt
+example_mats_med/quad/p5/gauss-legendre/m132.txt
+example_mats_med/quad/p5/gauss-legendre/m460.txt
+example_mats_med/quad/p6/gauss-legendre-lobatto/m132.txt
+example_mats_med/quad/p6/gauss-legendre-lobatto/m460.txt
+example_mats_med/quad/p6/gauss-legendre/m132.txt
+example_mats_med/quad/p6/gauss-legendre/m460.txt
+
+hex plot group 1:
+example_mats_med/hex/p5/gauss-legendre-lobatto/m132.txt
+example_mats_med/hex/p5/gauss-legendre-lobatto/m460.txt
+example_mats_med/hex/p5/gauss-legendre/m132.txt
+example_mats_med/hex/p5/gauss-legendre/m460.txt
+example_mats_med/hex/p6/gauss-legendre-lobatto/m132.txt
+example_mats_med/hex/p6/gauss-legendre-lobatto/m460.txt
+example_mats_med/hex/p6/gauss-legendre/m132.txt
+example_mats_med/hex/p6/gauss-legendre/m460.txt
+
+tet plot group 1:
+example_mats_med/tet/p3/shunn-ham/m0.txt
+example_mats_med/tet/p3/shunn-ham/m3.txt
+example_mats_med/tet/p3/shunn-ham/m6.txt
+
+tet plot group 2:
+example_mats_med/tet/p4/shunn-ham/m0.txt
+
+tri plot group 1:
+example_mats_med/tri/p1/williams-shunn/m0.txt
+example_mats_med/tri/p1/williams-shunn/m3.txt
+example_mats_med/tri/p1/williams-shunn/m6.txt
+example_mats_med/tri/p1/williams-shunn/m132.txt
+example_mats_med/tri/p1/williams-shunn/m460.txt
+
+tri plot group 2:
+example_mats_med/tri/p3/williams-shunn/m3.txt
+example_mats_med/tri/p3/williams-shunn/m132.txt
+example_mats_med/tri/p3/williams-shunn/m460.txt
+example_mats_med/tri/p4/williams-shunn/m0.txt
+example_mats_med/tri/p4/williams-shunn/m3.txt
+
+tri plot group 3:
+example_mats_med/tri/p5/williams-shunn/m0.txt
+example_mats_med/tri/p6/williams-shunn/m0.txt

@@ -1,0 +1,30 @@
+Investigate B num columns:
+  - PyFR panels B in 48 columns (AVX-512 - 6 kernel runs)
+    - allows for higher level threading / homogenous comp
+
+  - This panel of B will fit into L2/L3
+    - Each 8 column stride fits into L1
+
+  - We report kernel performance over 48 column iterations
+
+  - TEST:
+    - chose a kernel
+    - run with varying B columns
+    - Hypothesis: Per 48 iteration should be same after large enough width
+
+Re Run benchmarks -
+  - On PyFR suite
+
+  - Synthetic Matrics - random placement (uniform) - obj to see peak CSE gains
+    - Vary Size
+    - Vary number of distinct constants
+    - Vary density
+
+  - Plots pseudo FLOPS per 48 col panel
+    - for PyFR suite - per problem type
+    - for synthetic suite - per vary
+
+Report Preq:
+  - Chapter 2: where the matrices arise - visualize examples from the PyFR suite
+  - Chapter 4: Outline Methodology
+  - Chapter 5: Broadcast evaluation

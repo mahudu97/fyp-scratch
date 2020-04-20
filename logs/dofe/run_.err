@@ -1,0 +1,48 @@
+Generating and Compiling synth_mats/dofe/r_64_c_64_p_0.1_uniq_32.txt
+Running synth_mats/dofe/r_64_c_64_p_0.1_uniq_32.txt
+Finished running in 37.821ms
+Generating and Compiling synth_mats/dofe/r_64_c_64_p_0.1_uniq_64.txt
+Running synth_mats/dofe/r_64_c_64_p_0.1_uniq_64.txt
+Finished running in 38.687ms
+Generating and Compiling synth_mats/dofe/r_64_c_64_p_0.02_uniq_32.txt
+Running synth_mats/dofe/r_64_c_64_p_0.02_uniq_32.txt
+Finished running in 20.829ms
+Generating and Compiling synth_mats/dofe/r_64_c_64_p_0.02_uniq_64.txt
+Running synth_mats/dofe/r_64_c_64_p_0.02_uniq_64.txt
+Finished running in 18.948ms
+Generating and Compiling synth_mats/dofe/r_64_c_256_p_0.1_uniq_32.txt
+Running synth_mats/dofe/r_64_c_256_p_0.1_uniq_32.txt
+Finished running in 156.819ms
+Generating and Compiling synth_mats/dofe/r_64_c_256_p_0.1_uniq_64.txt
+Running synth_mats/dofe/r_64_c_256_p_0.1_uniq_64.txt
+Finished running in 142.324ms
+Generating and Compiling synth_mats/dofe/r_64_c_256_p_0.02_uniq_32.txt
+Running synth_mats/dofe/r_64_c_256_p_0.02_uniq_32.txt
+Finished running in 70.904ms
+Generating and Compiling synth_mats/dofe/r_64_c_256_p_0.02_uniq_64.txt
+Running synth_mats/dofe/r_64_c_256_p_0.02_uniq_64.txt
+Finished running in 69.063ms
+Generating and Compiling synth_mats/dofe/r_256_c_64_p_0.1_uniq_32.txt
+Running synth_mats/dofe/r_256_c_64_p_0.1_uniq_32.txt
+Finished running in 105.489ms
+Generating and Compiling synth_mats/dofe/r_256_c_64_p_0.1_uniq_64.txt
+Running synth_mats/dofe/r_256_c_64_p_0.1_uniq_64.txt
+Finished running in 105.57ms
+Generating and Compiling synth_mats/dofe/r_256_c_64_p_0.02_uniq_32.txt
+Running synth_mats/dofe/r_256_c_64_p_0.02_uniq_32.txt
+Finished running in 60.827ms
+Generating and Compiling synth_mats/dofe/r_256_c_64_p_0.02_uniq_64.txt
+Running synth_mats/dofe/r_256_c_64_p_0.02_uniq_64.txt
+Finished running in 61.497ms
+Generating and Compiling synth_mats/dofe/r_256_c_256_p_0.1_uniq_32.txt
+Running synth_mats/dofe/r_256_c_256_p_0.1_uniq_32.txt
+Finished running in 934.692ms
+Generating and Compiling synth_mats/dofe/r_256_c_256_p_0.1_uniq_64.txt
+Running synth_mats/dofe/r_256_c_256_p_0.1_uniq_64.txt
+Finished running in 942.937ms
+Generating and Compiling synth_mats/dofe/r_256_c_256_p_0.02_uniq_32.txt
+Running synth_mats/dofe/r_256_c_256_p_0.02_uniq_32.txt
+Finished running in 182.078ms
+Generating and Compiling synth_mats/dofe/r_256_c_256_p_0.02_uniq_64.txt
+Running synth_mats/dofe/r_256_c_256_p_0.02_uniq_64.txt
+Finished running in 163.016ms
