@@ -3,7 +3,7 @@
 #ifndef PROJECT_COMMON_H
 #define PROJECT_COMMON_H
 
-#define MAX_REPS 60
+#define MAX_REPS 10
 
 #define BLOCK_ALIGNMENT 64
 

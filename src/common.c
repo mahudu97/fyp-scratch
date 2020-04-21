@@ -325,10 +325,10 @@ struct benchmark_data benchmark_xsmm2(double *b, double *c, int num_col, libxsmm
         // Measure start timestamp.
         gettimeofday(&t1, NULL);
 
-        // __itt_resume();
+        __itt_resume();
         // Execute xsmm kernel
         exec_xsmm(b, c, num_col, xsmm_d);
-        // __itt_pause();
+        __itt_pause();
 
         // Measure end timestamp.
         gettimeofday(&t2, NULL);
