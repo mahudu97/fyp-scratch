@@ -21,17 +21,22 @@ def profile_matrix(file_name):
     global B_NUM_COL
 
     print("Generating and Compiling", file_name, file=sys.stderr)
-    _ = subprocess.Popen(
+    gen = subprocess.Popen(
         ["./generate_and_compile.sh", file_name],
         stdout=subprocess.PIPE, cwd=cwd
     )
+    for line in gen.stdout.readlines():
+        continue
 
     print("Running", file_name, file=sys.stderr)
     benchmark_cmd = ["./bin_benchmark.sh", str(B_NUM_COL), str(random.randint(0, 2**31)), str(xsmm_version)]
-    _ = subprocess.Popen(
+    run = subprocess.Popen(
         benchmark_cmd,
         stdout=subprocess.PIPE
     )
+    for line in run.stdout.readlines():
+        continue
+
 
 def atoi(text):
     return int(text) if text.isdigit() else text
