@@ -1,30 +1,22 @@
 /home/ubuntu/fyp-scratch/rn_profile.sh
 
-pyfr upstream:
-profile/regpack/pyfr/hex 0
-profile/regpack/pyfr/hex_group1 0
-profile/regpack/pyfr/quad 0
-profile/regpack/pyfr/quad_group1 0
-profile/regpack/pyfr/tet 0
-profile/regpack/pyfr/tet_group1 0
-profile/regpack/pyfr/tet_group2 0
-profile/regpack/pyfr/tri 0
-profile/regpack/pyfr/tri_group1 0
-profile/regpack/pyfr/tri_group2 0
-profile/regpack/pyfr/tri_group3 0
+pyfr upstream: 0
+hex_large_AI
+hex_reach_roof_l
+hex_reach_roof_r
+hex_small_AI
+quad_large_AI
+quad_reach_roof
+tet_AI_4
+tet_large_AI
+tet_up_roof_2x
+tri_large_AI_l
+tri_large_AI_r
+tri_small_AI
+tri_up_roof
 
-pyfr local:
-profile/regpack/pyfr/hex 1
-profile/regpack/pyfr/hex_group1 1
-profile/regpack/pyfr/quad 1
-profile/regpack/pyfr/quad_group1 1
-profile/regpack/pyfr/tet 1
-profile/regpack/pyfr/tet_group1 1
-profile/regpack/pyfr/tet_group2 1
-profile/regpack/pyfr/tri 1
-profile/regpack/pyfr/tri_group1 1
-profile/regpack/pyfr/tri_group2 1
-profile/regpack/pyfr/tri_group3 1
+pyfr local: 1
+
 
 synth upstream:
 vary_col_u16_256_1024 0
