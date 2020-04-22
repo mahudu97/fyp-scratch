@@ -23,53 +23,42 @@ tri_up_roof
 
 pyfr local: 1
 
+-------------------------
 
-synth upstream:
-vary_col_u16_256_1024 0
-vary_col_u16_32_128 0
-vary_col_u64_256_1024 0
-vary_col_u64_32_128 0
-vary_density_u16_01_025 0
-vary_density_u16_05_10 0
-vary_density_u16_125_30 0
-vary_density_u16_40_50 0
-vary_density_u64_01 0
-vary_density_u64_025 0
-vary_density_u64_05_075 0
-vary_density_u64_10_15 0
-vary_density_u64_20 0
-vary_density_u64_25 0
-vary_density_u64_30 0
-vary_density_u64_40 0
-vary_density_u64_50 0
-vary_row_u16_all 0
-vary_row_u64_1024 0
-vary_row_u64_rest 0
-vary_unique_24 0
-vary_unique_40_120 0
-vary_unique_under_32 0
+synth sampling freq: 5ms
 
-synth local:
-vary_col_u16_256_1024 1
-vary_col_u16_32_128 1
-vary_col_u64_256_1024 1
-vary_col_u64_32_128 1
-vary_density_u16_01_025 1
-vary_density_u16_05_10 1
-vary_density_u16_125_30 1
-vary_density_u16_40_50 1
-vary_density_u64_01 1
-vary_density_u64_025 1
-vary_density_u64_05_075 1
-vary_density_u64_10_15 1
-vary_density_u64_20 1
-vary_density_u64_25 1
-vary_density_u64_30 1
-vary_density_u64_40 1
-vary_density_u64_50 1
-vary_row_u16_all 1
-vary_row_u64_1024 1
-vary_row_u64_rest 1
-vary_unique_24 1
-vary_unique_40_120 1
-vary_unique_under_32 1
+synth upstream: 0
+vary_col_u16_1024
+vary_col_u16_32
+vary_col_u64_1024
+vary_col_u64_32
+vary_density_u16_01
+vary_density_u16_50
+vary_density_u64_01
+vary_density_u64_15
+vary_density_u64_25
+vary_density_u64_50
+vary_row_u16_all
+vary_row_u64_1024
+vary_row_u64_32
+vary_unique_24
+vary_unique_40_120
+vary_unique_under_32
+
+synth local: 1
+vary_col_u16_1024
+vary_col_u16_32
+vary_col_u64_1024
+vary_col_u64_32
+vary_density_u16_01
+vary_density_u16_50
+vary_density_u64_01
+vary_density_u64_15
+vary_density_u64_25
+vary_density_u64_50
+vary_row_u16_all
+vary_row_u64_1024
+vary_row_u64_32
+vary_unique_24
+vary_unique_40_120
+vary_unique_under_32
