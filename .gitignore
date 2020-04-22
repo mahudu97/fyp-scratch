@@ -11,3 +11,5 @@ src/plot/__pycache__/
 
 profile/regpack/regpack_synth_local/
 profile/regpack/regpack_synth_up/
+profile/regpack/regpack_pyfr_local/
+profile/regpack/regpack_pyfr_up/

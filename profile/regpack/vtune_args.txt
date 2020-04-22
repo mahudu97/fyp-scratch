@@ -1,5 +1,11 @@
 /home/ubuntu/fyp-scratch/rn_profile.sh
 
+pyfr sampling freq:
+hex - 5
+quad - 5
+tet - 5
+tri - 1
+
 pyfr upstream: 0
 hex_large_AI
 hex_reach_roof_l
