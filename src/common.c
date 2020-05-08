@@ -16,7 +16,7 @@ void d2f(const double *a, float *b, int size) {
   }
 }
 
-void fill_B_matrix(int b_size, double *b, int seed) {
+void fill_B_matrix(int b_size, float *b, int seed) {
   srand(seed);
   
   for (int i = 0; i < b_size; ++i) {
@@ -58,7 +58,7 @@ bool compare_results_s(float *a, float *b, int size, double delta) {
     return error;
 }
 
-void load_matrix(char *path, double **mat, int *m_x, int *m_y) {
+void load_matrix(char *path, float **mat, int *m_x, int *m_y) {
   // Loads the A matrix from a file.
   printf("Loading matrix from path %s...\n", path);
   FILE *matrixFile;
@@ -89,13 +89,13 @@ void load_matrix(char *path, double **mat, int *m_x, int *m_y) {
   printf("Read matrix has %d rows and %d columns.\n", *m_y, *m_x);
 
   // Allocate memory and read in the actual matrix.
-  *mat = calloc((*m_x) * (*m_y), sizeof(double));
+  *mat = calloc((*m_x) * (*m_y), sizeof(float));
   
   rewind(matrixFile);
-  double buffer;
+  float buffer;
   int ix = 0;
   
-  while (fscanf(matrixFile, "%lf", &buffer) == 1) {
+  while (fscanf(matrixFile, "%f", &buffer) == 1) {
     (*mat)[ix++] = buffer;
   }
 }
@@ -261,21 +261,17 @@ void load_A_matrix_MKL(char *path, double **a, int **rows, int **columns, int *a
   *nnz = ix;
 }
 
-void verify_d(double *c, double *c_naive, int b_num_col, int c_size) {
+void verify_d(float *c, float *c_naive, int b_num_col, int c_size) {
     double delta = 0.000001;
-    bool error = compare_results_d(c, c_naive, c_size, delta);
+    bool error = compare_results_s(c, c_naive, c_size, delta);
 
     if (error) {
-        if (b_num_col <= 100) {
-            print_matrix_d(c_naive, c_size, b_num_col);
-            print_matrix_d(c, c_size, b_num_col);
-        }
         printf("Incorrect value for output matrix\n");
         exit(EXIT_FAILURE);
     }
 }
 
-double benchmark_xsmm(double *b, double *c, int num_col, libxsmm_dfsspmdm *xsmm_d) {
+double benchmark_xsmm(float *b, float *c, int num_col, libxsmm_sfsspmdm *xsmm_d) {
     double fastest_time = DBL_MAX;
 
     // Sample gimmik kernel MAX_REPS times for a mean runtime
@@ -311,7 +307,7 @@ int cmpfunc (const void * a, const void * b) {
   else return 0;  
 }
 
-struct benchmark_data benchmark_xsmm2(double *b, double *c, int num_col, libxsmm_dfsspmdm *xsmm_d) {
+struct benchmark_data benchmark_xsmm2(float *b, float *c, int num_col, libxsmm_sfsspmdm *xsmm_d) {
     struct benchmark_data b_data;
     double times[MAX_REPS]; 
 
@@ -358,10 +354,10 @@ struct benchmark_data benchmark_xsmm2(double *b, double *c, int num_col, libxsmm
     return b_data;
 }
 
-void exec_xsmm(const double *b, double *c, int n, const libxsmm_dfsspmdm *xsmm_d) {
+void exec_xsmm(const float *b, float *c, int n, const libxsmm_sfsspmdm *xsmm_d) {
     int i;
     #pragma omp parallel for private(i)
     for (i = 0; i < n; i += BLOCK_ALIGNMENT) {
-        libxsmm_dfsspmdm_execute(xsmm_d, b + i, c + i);
+        libxsmm_sfsspmdm_execute(xsmm_d, b + i, c + i);
     }
 }

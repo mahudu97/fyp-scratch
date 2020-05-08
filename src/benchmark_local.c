@@ -23,7 +23,7 @@ int main(int argc, char **argv) {
 
     int m = 0;
     int k = 0;
-    double *a_d = NULL;
+    float *a_d = NULL;
 
     // Set values for alpha and beta from environment
     double alpha = getenv("ALPHA") ? atof(getenv("ALPHA")) : 1.0;
@@ -48,19 +48,19 @@ int main(int argc, char **argv) {
     int c_size = m * n;
 
     // Allocate memory according to sizes given.
-    double *b_d = (double *) aligned_alloc(BLOCK_ALIGNMENT * sizeof(double), b_size * sizeof(double));
-    double *c_true_d = (double *) aligned_alloc(BLOCK_ALIGNMENT * sizeof(double), c_size * sizeof(double));
+    float *b_d = (float *) aligned_alloc(BLOCK_ALIGNMENT * sizeof(float), b_size * sizeof(float));
+    float *c_true_d = (float *) aligned_alloc(BLOCK_ALIGNMENT * sizeof(float), c_size * sizeof(float));
 
     // Fill B matrix with random values.
     printf("%s", "Randomly generating B matrix...\n");
     fill_B_matrix(b_size, b_d, seed);
 
     // OpenBlas to get c_true_d
-    cblas_dgemm(CblasRowMajor, CblasNoTrans, CblasNoTrans, m, n, k, alpha, a_d, lda, b_d, ldb, beta, c_true_d, ldc);
+    cblas_sgemm(CblasRowMajor, CblasNoTrans, CblasNoTrans, m, n, k, alpha, a_d, lda, b_d, ldb, beta, c_true_d, ldc);
 
     printf("Verifying local kernel...\n");
-    double *c_xsmm_d = (double *) calloc(c_size, sizeof(double));
-    libxsmm_dfsspmdm *xsmm_d = libxsmm_dfsspmdm_create(m, BLOCK_ALIGNMENT, k, lda, ldb, ldc, alpha, beta, 1, a_d);
+    float *c_xsmm_d = (float *) calloc(c_size, sizeof(float));
+    libxsmm_sfsspmdm *xsmm_d = libxsmm_sfsspmdm_create(m, BLOCK_ALIGNMENT, k, lda, ldb, ldc, alpha, beta, 1, a_d);
     exec_xsmm(b_d, c_xsmm_d, n, xsmm_d);
     verify_d(c_xsmm_d, c_true_d, n, c_size);
 

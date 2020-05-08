@@ -30,7 +30,7 @@ int main(int argc, char **argv) {
 
     int m = 0;
     int k = 0;
-    double *a_d = NULL;
+    float *a_d = NULL;
 
     // Load A matrix and sizes from file.
     load_matrix(a_path, &a_d, &k, &m);
@@ -49,15 +49,15 @@ int main(int argc, char **argv) {
     int c_size = m * n;
 
     // Allocate memory according to sizes given.
-    double *b_d = (double *) aligned_alloc(BLOCK_ALIGNMENT * sizeof(double), b_size * sizeof(double));
+    float *b_d = (float *) aligned_alloc(BLOCK_ALIGNMENT * sizeof(float), b_size * sizeof(float));
 
     // Fill B matrix with random values.
     printf("%s", "Randomly generating B matrix...\n");
     fill_B_matrix(b_size, b_d, seed);
 
     printf("%s", "Running XSMM Upstream MM...\n");
-    double *c_xsmm_d = (double *) calloc(c_size, sizeof(double));
-    libxsmm_dfsspmdm *xsmm_d = libxsmm_dfsspmdm_create(m, BLOCK_ALIGNMENT, k, lda, ldb, ldc, alpha, beta, 1, a_d);
+    float *c_xsmm_d = (float *) calloc(c_size, sizeof(float));
+    libxsmm_sfsspmdm *xsmm_d = libxsmm_sfsspmdm_create(m, BLOCK_ALIGNMENT, k, lda, ldb, ldc, alpha, beta, 1, a_d);
     struct benchmark_data b_data = benchmark_xsmm2(b_d, c_xsmm_d, n, xsmm_d);
 
     printf("%s", "Done.\n");

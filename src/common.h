@@ -16,13 +16,13 @@ struct benchmark_data
 
 void d2f(const double *a, float *b, int size);
 
-void fill_B_matrix(int b_size, double *b, int seed);
+void fill_B_matrix(int b_size, float *b, int seed);
 
 bool compare_results_d(double *a, double *b, int size, double delta);
 
 bool compare_results_s(float *a, float *b, int size, double delta);
 
-void load_matrix(char *path, double **mat, int *m_x, int *m_y);
+void load_matrix(char *path, float **mat, int *m_x, int *m_y);
 
 void save_matrix(char *path, double *mat, int m_x, int m_y);
 
@@ -37,13 +37,13 @@ void load_A_matrix_CM(char *path, double **a, int *a_x, int *a_y);
 void load_A_matrix_MKL(char *path, double **a, int **rows, int **columns, int *a_x, int *a_y, int *nnz);
 
 
-void verify_d(double *c, double *c_naive, int b_num_col, int c_size);
+void verify_d(float *c, float *c_naive, int b_num_col, int c_size);
 
-double benchmark_xsmm(double *b, double *c, int num_col, libxsmm_dfsspmdm *xsmm_d);
+double benchmark_xsmm(float *b, float *c, int num_col, libxsmm_sfsspmdm *xsmm_d);
 
-struct benchmark_data benchmark_xsmm2(double *b, double *c, int num_col, libxsmm_dfsspmdm *xsmm_d);
+struct benchmark_data benchmark_xsmm2(float *b, float *c, int num_col, libxsmm_sfsspmdm *xsmm_d);
 
-void exec_xsmm(const double *b, double *c, int n, const libxsmm_dfsspmdm *xsmm_d);
+void exec_xsmm(const float *b, float *c, int n, const libxsmm_sfsspmdm *xsmm_d);
 
 
 #endif //PROJECT_COMMON_H
