@@ -5,7 +5,7 @@
 
 #define MAX_REPS 60
 
-#define BLOCK_ALIGNMENT 64
+#define BLOCK_ALIGNMENT 48
 
 struct benchmark_data
 {
