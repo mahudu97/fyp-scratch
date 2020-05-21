@@ -1,0 +1,192 @@
+Generating and Compiling synth_mats/vary_col/q_16/r_128_c_32_p_0.05_uniq_16.txt
+Running synth_mats/vary_col/q_16/r_128_c_32_p_0.05_uniq_16.txt
+Finished running in 28.944ms
+Generating and Compiling synth_mats/vary_col/q_16/r_128_c_64_p_0.05_uniq_16.txt
+Running synth_mats/vary_col/q_16/r_128_c_64_p_0.05_uniq_16.txt
+Finished running in 40.225ms
+Generating and Compiling synth_mats/vary_col/q_16/r_128_c_128_p_0.05_uniq_16.txt
+Running synth_mats/vary_col/q_16/r_128_c_128_p_0.05_uniq_16.txt
+Finished running in 63.144ms
+Generating and Compiling synth_mats/vary_col/q_16/r_128_c_256_p_0.05_uniq_16.txt
+Running synth_mats/vary_col/q_16/r_128_c_256_p_0.05_uniq_16.txt
+Finished running in 138.162ms
+Generating and Compiling synth_mats/vary_col/q_16/r_128_c_512_p_0.05_uniq_16.txt
+Running synth_mats/vary_col/q_16/r_128_c_512_p_0.05_uniq_16.txt
+Finished running in 326.786ms
+Generating and Compiling synth_mats/vary_col/q_16/r_128_c_1024_p_0.05_uniq_16.txt
+Running synth_mats/vary_col/q_16/r_128_c_1024_p_0.05_uniq_16.txt
+Finished running in 722.7919999999999ms
+Generating and Compiling synth_mats/vary_col/q_64/r_128_c_32_p_0.05_uniq_64.txt
+Running synth_mats/vary_col/q_64/r_128_c_32_p_0.05_uniq_64.txt
+Finished running in 27.898ms
+Generating and Compiling synth_mats/vary_col/q_64/r_128_c_64_p_0.05_uniq_64.txt
+Running synth_mats/vary_col/q_64/r_128_c_64_p_0.05_uniq_64.txt
+Finished running in 39.107ms
+Generating and Compiling synth_mats/vary_col/q_64/r_128_c_128_p_0.05_uniq_64.txt
+Running synth_mats/vary_col/q_64/r_128_c_128_p_0.05_uniq_64.txt
+Finished running in 62.659ms
+Generating and Compiling synth_mats/vary_col/q_64/r_128_c_256_p_0.05_uniq_64.txt
+Running synth_mats/vary_col/q_64/r_128_c_256_p_0.05_uniq_64.txt
+Finished running in 133.39ms
+Generating and Compiling synth_mats/vary_col/q_64/r_128_c_512_p_0.05_uniq_64.txt
+Running synth_mats/vary_col/q_64/r_128_c_512_p_0.05_uniq_64.txt
+Finished running in 333.996ms
+Generating and Compiling synth_mats/vary_col/q_64/r_128_c_1024_p_0.05_uniq_64.txt
+Running synth_mats/vary_col/q_64/r_128_c_1024_p_0.05_uniq_64.txt
+Finished running in 752.932ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.01_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.01_uniq_16.txt
+Finished running in 44.083ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.1_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.1_uniq_16.txt
+Finished running in 76.737ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.2_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.2_uniq_16.txt
+Finished running in 120.106ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.3_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.3_uniq_16.txt
+Finished running in 161.222ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.4_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.4_uniq_16.txt
+Finished running in 203.68ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.5_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.5_uniq_16.txt
+Finished running in 243.411ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.05_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.05_uniq_16.txt
+Finished running in 62.347ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.15_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.15_uniq_16.txt
+Finished running in 98.893ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.025_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.025_uniq_16.txt
+Finished running in 61.575ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.25_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.25_uniq_16.txt
+Finished running in 140.651ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.075_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.075_uniq_16.txt
+Finished running in 69.119ms
+Generating and Compiling synth_mats/vary_density/q_16/r_128_c_128_p_0.125_uniq_16.txt
+Running synth_mats/vary_density/q_16/r_128_c_128_p_0.125_uniq_16.txt
+Finished running in 87.57799999999997ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.1_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.1_uniq_64.txt
+Finished running in 77.579ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.01_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.01_uniq_64.txt
+Finished running in 44.02800000000002ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.2_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.2_uniq_64.txt
+Finished running in 119.669ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.3_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.3_uniq_64.txt
+Finished running in 161.647ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.4_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.4_uniq_64.txt
+Finished running in 202.589ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.05_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.05_uniq_64.txt
+Finished running in 62.78ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.5_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.5_uniq_64.txt
+Finished running in 243.807ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.15_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.15_uniq_64.txt
+Finished running in 98.39ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.025_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.025_uniq_64.txt
+Finished running in 61.515ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.25_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.25_uniq_64.txt
+Finished running in 141.008ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.075_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.075_uniq_64.txt
+Finished running in 68.567ms
+Generating and Compiling synth_mats/vary_density/q_64/r_128_c_128_p_0.125_uniq_64.txt
+Running synth_mats/vary_density/q_64/r_128_c_128_p_0.125_uniq_64.txt
+Finished running in 87.665ms
+Generating and Compiling synth_mats/vary_row/q_16/r_32_c_128_p_0.05_uniq_16.txt
+Running synth_mats/vary_row/q_16/r_32_c_128_p_0.05_uniq_16.txt
+Finished running in 34.714ms
+Generating and Compiling synth_mats/vary_row/q_16/r_64_c_128_p_0.05_uniq_16.txt
+Running synth_mats/vary_row/q_16/r_64_c_128_p_0.05_uniq_16.txt
+Finished running in 49.778ms
+Generating and Compiling synth_mats/vary_row/q_16/r_128_c_128_p_0.05_uniq_16.txt
+Running synth_mats/vary_row/q_16/r_128_c_128_p_0.05_uniq_16.txt
+Finished running in 62.207ms
+Generating and Compiling synth_mats/vary_row/q_16/r_256_c_128_p_0.05_uniq_16.txt
+Running synth_mats/vary_row/q_16/r_256_c_128_p_0.05_uniq_16.txt
+Finished running in 104.888ms
+Generating and Compiling synth_mats/vary_row/q_16/r_512_c_128_p_0.05_uniq_16.txt
+Running synth_mats/vary_row/q_16/r_512_c_128_p_0.05_uniq_16.txt
+Finished running in 192.748ms
+Generating and Compiling synth_mats/vary_row/q_16/r_1024_c_128_p_0.05_uniq_16.txt
+Running synth_mats/vary_row/q_16/r_1024_c_128_p_0.05_uniq_16.txt
+Finished running in 380.36400000000003ms
+Generating and Compiling synth_mats/vary_row/q_64/r_32_c_128_p_0.05_uniq_64.txt
+Running synth_mats/vary_row/q_64/r_32_c_128_p_0.05_uniq_64.txt
+Finished running in 33.7ms
+Generating and Compiling synth_mats/vary_row/q_64/r_64_c_128_p_0.05_uniq_64.txt
+Running synth_mats/vary_row/q_64/r_64_c_128_p_0.05_uniq_64.txt
+Finished running in 51.616ms
+Generating and Compiling synth_mats/vary_row/q_64/r_128_c_128_p_0.05_uniq_64.txt
+Running synth_mats/vary_row/q_64/r_128_c_128_p_0.05_uniq_64.txt
+Finished running in 62.545ms
+Generating and Compiling synth_mats/vary_row/q_64/r_256_c_128_p_0.05_uniq_64.txt
+Running synth_mats/vary_row/q_64/r_256_c_128_p_0.05_uniq_64.txt
+Finished running in 104.086ms
+Generating and Compiling synth_mats/vary_row/q_64/r_512_c_128_p_0.05_uniq_64.txt
+Running synth_mats/vary_row/q_64/r_512_c_128_p_0.05_uniq_64.txt
+Finished running in 192.814ms
+Generating and Compiling synth_mats/vary_row/q_64/r_1024_c_128_p_0.05_uniq_64.txt
+Running synth_mats/vary_row/q_64/r_1024_c_128_p_0.05_uniq_64.txt
+Finished running in 379.786ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_8.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_8.txt
+Finished running in 63.296ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_16.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_16.txt
+Finished running in 62.501ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_24.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_24.txt
+Finished running in 61.4ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_31.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_31.txt
+Finished running in 62.965ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_40.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_40.txt
+Finished running in 62.78ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_48.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_48.txt
+Finished running in 63.133ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_56.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_56.txt
+Finished running in 61.484ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_64.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_64.txt
+Finished running in 62.012ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_78.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_78.txt
+Finished running in 62.171ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_96.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_96.txt
+Finished running in 61.862ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_112.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_112.txt
+Finished running in 63.566ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_128.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_128.txt
+Finished running in 63.408ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_144.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_144.txt
+Finished running in 60.808ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_160.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_160.txt
+Finished running in 79.162ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_176.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_176.txt
+Finished running in 79.488ms
+Generating and Compiling synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_192.txt
+Running synth_mats/vary_unique/r_128_c_128_p_0.05_uniq_192.txt
+Finished running in 178.185ms
