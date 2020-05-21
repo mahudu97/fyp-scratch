@@ -1,0 +1,27 @@
+Generating and Compiling example_mats_l240/tet/p3/shunn-ham/m132.txt
+Running example_mats_l240/tet/p3/shunn-ham/m132.txt
+Finished running in 26.342ms
+Generating and Compiling example_mats_l240/tet/p3/shunn-ham/m460.txt
+Running example_mats_l240/tet/p3/shunn-ham/m460.txt
+Finished running in 20.986ms
+Generating and Compiling example_mats_l240/tet/p4/shunn-ham/m3.txt
+Running example_mats_l240/tet/p4/shunn-ham/m3.txt
+Finished running in 30.138ms
+Generating and Compiling example_mats_l240/tet/p4/shunn-ham/m6.txt
+Running example_mats_l240/tet/p4/shunn-ham/m6.txt
+Finished running in 73.003ms
+Generating and Compiling example_mats_l240/tet/p5/shunn-ham/m0.txt
+Running example_mats_l240/tet/p5/shunn-ham/m0.txt
+Finished running in 57.635ms
+Generating and Compiling example_mats_l240/tri/p4/williams-shunn/m132.txt
+Running example_mats_l240/tri/p4/williams-shunn/m132.txt
+Finished running in 9.009ms
+Generating and Compiling example_mats_l240/tri/p4/williams-shunn/m460.txt
+Running example_mats_l240/tri/p4/williams-shunn/m460.txt
+Finished running in 9.632ms
+Generating and Compiling example_mats_l240/tri/p6/williams-shunn/m3.txt
+Running example_mats_l240/tri/p6/williams-shunn/m3.txt
+Finished running in 9.913ms
+Generating and Compiling example_mats_l240/tri/p6/williams-shunn/m6.txt
+Running example_mats_l240/tri/p6/williams-shunn/m6.txt
+Finished running in 19.057ms
