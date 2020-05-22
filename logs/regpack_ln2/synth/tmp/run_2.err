@@ -1,0 +1,12 @@
+Generating and Compiling synth_mats2/vary_col/q_16/r_128_c_1024_p_0.05_uniq_16.txt
+Running synth_mats2/vary_col/q_16/r_128_c_1024_p_0.05_uniq_16.txt
+Finished running in 722.541ms
+Generating and Compiling synth_mats2/vary_col/q_64/r_128_c_1024_p_0.05_uniq_64.txt
+Running synth_mats2/vary_col/q_64/r_128_c_1024_p_0.05_uniq_64.txt
+Finished running in 717.264ms
+Generating and Compiling synth_mats2/vary_row/q_16/r_1024_c_128_p_0.05_uniq_16.txt
+Running synth_mats2/vary_row/q_16/r_1024_c_128_p_0.05_uniq_16.txt
+Finished running in 384.552ms
+Generating and Compiling synth_mats2/vary_row/q_64/r_1024_c_128_p_0.05_uniq_64.txt
+Running synth_mats2/vary_row/q_64/r_1024_c_128_p_0.05_uniq_64.txt
+Finished running in 384.921ms
