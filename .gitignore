@@ -8,6 +8,7 @@ src/plot/.ipynb_checkpoints/
 src/plot/__pycache__/
 src/plot/regpack_L1/__pycache__/
 src/plot/regpack_ln2/__pycache__/
+src/plot/regpack_macc_inv/__pycache__/
 
 **.vscode/
 
