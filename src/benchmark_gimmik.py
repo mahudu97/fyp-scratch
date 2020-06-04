@@ -47,7 +47,7 @@ def benchmark_matrix(file_name):
     num_col = B_NUM_COL
 
     print("Running", file_name, file=sys.stderr)
-    benchmark_cmd = ["./bin_benchmark.sh", str(num_col), str(random.randint(0, 2**31))]
+    benchmark_cmd = ["./bin_benchmark_gimmik.sh", str(num_col), str(random.randint(0, 2**31))]
     runout = subprocess.Popen(
         benchmark_cmd,
         stdout=subprocess.PIPE
