@@ -1,0 +1,438 @@
+Generating and Compiling example_mats_med/hex/p1/gauss-legendre/m0.txt
+Running example_mats_med/hex/p1/gauss-legendre/m0.txt
+Finished running in 5.691ms
+Generating and Compiling example_mats_med/hex/p1/gauss-legendre/m3.txt
+Running example_mats_med/hex/p1/gauss-legendre/m3.txt
+Finished running in 3.317ms
+Generating and Compiling example_mats_med/hex/p1/gauss-legendre/m6.txt
+Running example_mats_med/hex/p1/gauss-legendre/m6.txt
+Finished running in 6.467ms
+Generating and Compiling example_mats_med/hex/p1/gauss-legendre/m132.txt
+Running example_mats_med/hex/p1/gauss-legendre/m132.txt
+Finished running in 3.283ms
+Generating and Compiling example_mats_med/hex/p1/gauss-legendre/m460.txt
+Running example_mats_med/hex/p1/gauss-legendre/m460.txt
+Finished running in 5.489ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/hex/p2/gauss-legendre-lobatto/m0.txt
+Finished running in 13.574ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/hex/p2/gauss-legendre-lobatto/m3.txt
+Finished running in 16.056ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/hex/p2/gauss-legendre-lobatto/m6.txt
+Finished running in 31.553ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/hex/p2/gauss-legendre-lobatto/m132.txt
+Finished running in 30.707ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/hex/p2/gauss-legendre-lobatto/m460.txt
+Finished running in 22.798ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre/m0.txt
+Running example_mats_med/hex/p2/gauss-legendre/m0.txt
+Finished running in 17.086ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre/m3.txt
+Running example_mats_med/hex/p2/gauss-legendre/m3.txt
+Finished running in 16.452ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre/m6.txt
+Running example_mats_med/hex/p2/gauss-legendre/m6.txt
+Finished running in 31.932ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre/m132.txt
+Running example_mats_med/hex/p2/gauss-legendre/m132.txt
+Finished running in 31.012ms
+Generating and Compiling example_mats_med/hex/p2/gauss-legendre/m460.txt
+Running example_mats_med/hex/p2/gauss-legendre/m460.txt
+Finished running in 22.774ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/hex/p3/gauss-legendre-lobatto/m0.txt
+Finished running in 35.895ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/hex/p3/gauss-legendre-lobatto/m3.txt
+Finished running in 42.195ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/hex/p3/gauss-legendre-lobatto/m6.txt
+Finished running in 62.648ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/hex/p3/gauss-legendre-lobatto/m132.txt
+Finished running in 69.585ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/hex/p3/gauss-legendre-lobatto/m460.txt
+Finished running in 59.492ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre/m0.txt
+Running example_mats_med/hex/p3/gauss-legendre/m0.txt
+Finished running in 33.647ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre/m3.txt
+Running example_mats_med/hex/p3/gauss-legendre/m3.txt
+Finished running in 42.178ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre/m6.txt
+Running example_mats_med/hex/p3/gauss-legendre/m6.txt
+Finished running in 62.794ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre/m132.txt
+Running example_mats_med/hex/p3/gauss-legendre/m132.txt
+Finished running in 68.39ms
+Generating and Compiling example_mats_med/hex/p3/gauss-legendre/m460.txt
+Running example_mats_med/hex/p3/gauss-legendre/m460.txt
+Finished running in 60.804ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/hex/p4/gauss-legendre-lobatto/m0.txt
+Finished running in 60.302ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/hex/p4/gauss-legendre-lobatto/m3.txt
+Finished running in 66.038ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/hex/p4/gauss-legendre-lobatto/m6.txt
+Finished running in 120.437ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/hex/p4/gauss-legendre-lobatto/m132.txt
+Finished running in 165.156ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/hex/p4/gauss-legendre-lobatto/m460.txt
+Finished running in 132.472ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre/m0.txt
+Running example_mats_med/hex/p4/gauss-legendre/m0.txt
+Finished running in 66.758ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre/m3.txt
+Running example_mats_med/hex/p4/gauss-legendre/m3.txt
+Finished running in 66.007ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre/m6.txt
+Running example_mats_med/hex/p4/gauss-legendre/m6.txt
+Finished running in 120.521ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre/m132.txt
+Running example_mats_med/hex/p4/gauss-legendre/m132.txt
+Finished running in 164.023ms
+Generating and Compiling example_mats_med/hex/p4/gauss-legendre/m460.txt
+Running example_mats_med/hex/p4/gauss-legendre/m460.txt
+Finished running in 134.26ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/hex/p5/gauss-legendre-lobatto/m0.txt
+Finished running in 89.308ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/hex/p5/gauss-legendre-lobatto/m3.txt
+Finished running in 109.106ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/hex/p5/gauss-legendre-lobatto/m6.txt
+Finished running in 202.41ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/hex/p5/gauss-legendre-lobatto/m132.txt
+Finished running in 379.43100000000004ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/hex/p5/gauss-legendre-lobatto/m460.txt
+Finished running in 261.567ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre/m0.txt
+Running example_mats_med/hex/p5/gauss-legendre/m0.txt
+Finished running in 136.02099999999996ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre/m3.txt
+Running example_mats_med/hex/p5/gauss-legendre/m3.txt
+Finished running in 108.895ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre/m6.txt
+Running example_mats_med/hex/p5/gauss-legendre/m6.txt
+Finished running in 202.296ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre/m132.txt
+Running example_mats_med/hex/p5/gauss-legendre/m132.txt
+Finished running in 403.943ms
+Generating and Compiling example_mats_med/hex/p5/gauss-legendre/m460.txt
+Running example_mats_med/hex/p5/gauss-legendre/m460.txt
+Finished running in 269.801ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/hex/p6/gauss-legendre-lobatto/m0.txt
+Finished running in 123.44ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/hex/p6/gauss-legendre-lobatto/m3.txt
+Finished running in 171.949ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/hex/p6/gauss-legendre-lobatto/m6.txt
+Finished running in 333.005ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/hex/p6/gauss-legendre-lobatto/m132.txt
+Finished running in 722.657ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/hex/p6/gauss-legendre-lobatto/m460.txt
+Finished running in 579.903ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre/m0.txt
+Running example_mats_med/hex/p6/gauss-legendre/m0.txt
+Finished running in 291.736ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre/m3.txt
+Running example_mats_med/hex/p6/gauss-legendre/m3.txt
+Finished running in 171.199ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre/m6.txt
+Running example_mats_med/hex/p6/gauss-legendre/m6.txt
+Finished running in 332.479ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre/m132.txt
+Running example_mats_med/hex/p6/gauss-legendre/m132.txt
+Finished running in 752.145ms
+Generating and Compiling example_mats_med/hex/p6/gauss-legendre/m460.txt
+Running example_mats_med/hex/p6/gauss-legendre/m460.txt
+Finished running in 618.28ms
+Generating and Compiling example_mats_med/quad/p1/gauss-legendre/m0.txt
+Running example_mats_med/quad/p1/gauss-legendre/m0.txt
+Finished running in 1.637ms
+Generating and Compiling example_mats_med/quad/p1/gauss-legendre/m3.txt
+Running example_mats_med/quad/p1/gauss-legendre/m3.txt
+Finished running in 1.108ms
+Generating and Compiling example_mats_med/quad/p1/gauss-legendre/m6.txt
+Running example_mats_med/quad/p1/gauss-legendre/m6.txt
+Finished running in 1.881ms
+Generating and Compiling example_mats_med/quad/p1/gauss-legendre/m132.txt
+Running example_mats_med/quad/p1/gauss-legendre/m132.txt
+Finished running in 1.08ms
+Generating and Compiling example_mats_med/quad/p1/gauss-legendre/m460.txt
+Running example_mats_med/quad/p1/gauss-legendre/m460.txt
+Finished running in 1.504ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/quad/p2/gauss-legendre-lobatto/m0.txt
+Finished running in 2.569ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/quad/p2/gauss-legendre-lobatto/m3.txt
+Finished running in 2.518ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/quad/p2/gauss-legendre-lobatto/m6.txt
+Finished running in 4.424ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/quad/p2/gauss-legendre-lobatto/m132.txt
+Finished running in 3.037ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/quad/p2/gauss-legendre-lobatto/m460.txt
+Finished running in 4.22ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre/m0.txt
+Running example_mats_med/quad/p2/gauss-legendre/m0.txt
+Finished running in 2.907ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre/m3.txt
+Running example_mats_med/quad/p2/gauss-legendre/m3.txt
+Finished running in 2.451ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre/m6.txt
+Running example_mats_med/quad/p2/gauss-legendre/m6.txt
+Finished running in 4.382ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre/m132.txt
+Running example_mats_med/quad/p2/gauss-legendre/m132.txt
+Finished running in 3.023ms
+Generating and Compiling example_mats_med/quad/p2/gauss-legendre/m460.txt
+Running example_mats_med/quad/p2/gauss-legendre/m460.txt
+Finished running in 4.292ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/quad/p3/gauss-legendre-lobatto/m0.txt
+Finished running in 3.729ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/quad/p3/gauss-legendre-lobatto/m3.txt
+Finished running in 4.586ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/quad/p3/gauss-legendre-lobatto/m6.txt
+Finished running in 7.97ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/quad/p3/gauss-legendre-lobatto/m132.txt
+Finished running in 6.944ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/quad/p3/gauss-legendre-lobatto/m460.txt
+Finished running in 8.856ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre/m0.txt
+Running example_mats_med/quad/p3/gauss-legendre/m0.txt
+Finished running in 4.971ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre/m3.txt
+Running example_mats_med/quad/p3/gauss-legendre/m3.txt
+Finished running in 4.486ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre/m6.txt
+Running example_mats_med/quad/p3/gauss-legendre/m6.txt
+Finished running in 7.791ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre/m132.txt
+Running example_mats_med/quad/p3/gauss-legendre/m132.txt
+Finished running in 7.336ms
+Generating and Compiling example_mats_med/quad/p3/gauss-legendre/m460.txt
+Running example_mats_med/quad/p3/gauss-legendre/m460.txt
+Finished running in 9.084ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/quad/p4/gauss-legendre-lobatto/m0.txt
+Finished running in 4.94ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/quad/p4/gauss-legendre-lobatto/m3.txt
+Finished running in 7.313ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/quad/p4/gauss-legendre-lobatto/m6.txt
+Finished running in 12.315ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/quad/p4/gauss-legendre-lobatto/m132.txt
+Finished running in 14.188ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/quad/p4/gauss-legendre-lobatto/m460.txt
+Finished running in 15.386ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre/m0.txt
+Running example_mats_med/quad/p4/gauss-legendre/m0.txt
+Finished running in 7.268ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre/m3.txt
+Running example_mats_med/quad/p4/gauss-legendre/m3.txt
+Finished running in 7.329ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre/m6.txt
+Running example_mats_med/quad/p4/gauss-legendre/m6.txt
+Finished running in 12.383ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre/m132.txt
+Running example_mats_med/quad/p4/gauss-legendre/m132.txt
+Finished running in 14.521ms
+Generating and Compiling example_mats_med/quad/p4/gauss-legendre/m460.txt
+Running example_mats_med/quad/p4/gauss-legendre/m460.txt
+Finished running in 15.731ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/quad/p5/gauss-legendre-lobatto/m0.txt
+Finished running in 6.051ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/quad/p5/gauss-legendre-lobatto/m3.txt
+Finished running in 10.867ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/quad/p5/gauss-legendre-lobatto/m6.txt
+Finished running in 18.292ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/quad/p5/gauss-legendre-lobatto/m132.txt
+Finished running in 21.794ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/quad/p5/gauss-legendre-lobatto/m460.txt
+Finished running in 23.965ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre/m0.txt
+Running example_mats_med/quad/p5/gauss-legendre/m0.txt
+Finished running in 10.623ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre/m3.txt
+Running example_mats_med/quad/p5/gauss-legendre/m3.txt
+Finished running in 10.973ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre/m6.txt
+Running example_mats_med/quad/p5/gauss-legendre/m6.txt
+Finished running in 18.193ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre/m132.txt
+Running example_mats_med/quad/p5/gauss-legendre/m132.txt
+Finished running in 22.505ms
+Generating and Compiling example_mats_med/quad/p5/gauss-legendre/m460.txt
+Running example_mats_med/quad/p5/gauss-legendre/m460.txt
+Finished running in 24.844ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre-lobatto/m0.txt
+Running example_mats_med/quad/p6/gauss-legendre-lobatto/m0.txt
+Finished running in 7.191ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre-lobatto/m3.txt
+Running example_mats_med/quad/p6/gauss-legendre-lobatto/m3.txt
+Finished running in 15.064ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre-lobatto/m6.txt
+Running example_mats_med/quad/p6/gauss-legendre-lobatto/m6.txt
+Finished running in 25.113ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre-lobatto/m132.txt
+Running example_mats_med/quad/p6/gauss-legendre-lobatto/m132.txt
+Finished running in 32.373ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre-lobatto/m460.txt
+Running example_mats_med/quad/p6/gauss-legendre-lobatto/m460.txt
+Finished running in 34.696ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre/m0.txt
+Running example_mats_med/quad/p6/gauss-legendre/m0.txt
+Finished running in 14.587ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre/m3.txt
+Running example_mats_med/quad/p6/gauss-legendre/m3.txt
+Finished running in 14.985ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre/m6.txt
+Running example_mats_med/quad/p6/gauss-legendre/m6.txt
+Finished running in 24.886ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre/m132.txt
+Running example_mats_med/quad/p6/gauss-legendre/m132.txt
+Finished running in 33.438ms
+Generating and Compiling example_mats_med/quad/p6/gauss-legendre/m460.txt
+Running example_mats_med/quad/p6/gauss-legendre/m460.txt
+Finished running in 35.401ms
+Generating and Compiling example_mats_med/tet/p1/shunn-ham/m0.txt
+Running example_mats_med/tet/p1/shunn-ham/m0.txt
+Finished running in 2.517ms
+Generating and Compiling example_mats_med/tet/p1/shunn-ham/m3.txt
+Running example_mats_med/tet/p1/shunn-ham/m3.txt
+Finished running in 1.657ms
+Generating and Compiling example_mats_med/tet/p1/shunn-ham/m6.txt
+Running example_mats_med/tet/p1/shunn-ham/m6.txt
+Finished running in 3.274ms
+Generating and Compiling example_mats_med/tet/p1/shunn-ham/m132.txt
+Running example_mats_med/tet/p1/shunn-ham/m132.txt
+Finished running in 1.473ms
+Generating and Compiling example_mats_med/tet/p1/shunn-ham/m460.txt
+Running example_mats_med/tet/p1/shunn-ham/m460.txt
+Finished running in 1.368ms
+Generating and Compiling example_mats_med/tet/p2/shunn-ham/m0.txt
+Running example_mats_med/tet/p2/shunn-ham/m0.txt
+Finished running in 7.717ms
+Generating and Compiling example_mats_med/tet/p2/shunn-ham/m3.txt
+Running example_mats_med/tet/p2/shunn-ham/m3.txt
+Finished running in 6.851ms
+Generating and Compiling example_mats_med/tet/p2/shunn-ham/m6.txt
+Running example_mats_med/tet/p2/shunn-ham/m6.txt
+Finished running in 11.944ms
+Generating and Compiling example_mats_med/tet/p2/shunn-ham/m132.txt
+Running example_mats_med/tet/p2/shunn-ham/m132.txt
+Finished running in 8.337ms
+Generating and Compiling example_mats_med/tet/p2/shunn-ham/m460.txt
+Running example_mats_med/tet/p2/shunn-ham/m460.txt
+Finished running in 9.258ms
+Generating and Compiling example_mats_med/tet/p3/shunn-ham/m0.txt
+Running example_mats_med/tet/p3/shunn-ham/m0.txt
+Finished running in 19.436ms
+Generating and Compiling example_mats_med/tet/p3/shunn-ham/m3.txt
+Running example_mats_med/tet/p3/shunn-ham/m3.txt
+Finished running in 20.995ms
+Generating and Compiling example_mats_med/tet/p3/shunn-ham/m6.txt
+Running example_mats_med/tet/p3/shunn-ham/m6.txt
+Finished running in 30.964ms
+Generating and Compiling example_mats_med/tet/p4/shunn-ham/m0.txt
+Running example_mats_med/tet/p4/shunn-ham/m0.txt
+Finished running in 50.785ms
+Generating and Compiling example_mats_med/tri/p1/williams-shunn/m0.txt
+Running example_mats_med/tri/p1/williams-shunn/m0.txt
+Finished running in 1.088ms
+Generating and Compiling example_mats_med/tri/p1/williams-shunn/m3.txt
+Running example_mats_med/tri/p1/williams-shunn/m3.txt
+Finished running in 0.76ms
+Generating and Compiling example_mats_med/tri/p1/williams-shunn/m6.txt
+Running example_mats_med/tri/p1/williams-shunn/m6.txt
+Finished running in 1.314ms
+Generating and Compiling example_mats_med/tri/p1/williams-shunn/m132.txt
+Running example_mats_med/tri/p1/williams-shunn/m132.txt
+Finished running in 0.787ms
+Generating and Compiling example_mats_med/tri/p1/williams-shunn/m460.txt
+Running example_mats_med/tri/p1/williams-shunn/m460.txt
+Finished running in 0.761ms
+Generating and Compiling example_mats_med/tri/p2/williams-shunn/m0.txt
+Running example_mats_med/tri/p2/williams-shunn/m0.txt
+Finished running in 2.074ms
+Generating and Compiling example_mats_med/tri/p2/williams-shunn/m3.txt
+Running example_mats_med/tri/p2/williams-shunn/m3.txt
+Finished running in 1.839ms
+Generating and Compiling example_mats_med/tri/p2/williams-shunn/m6.txt
+Running example_mats_med/tri/p2/williams-shunn/m6.txt
+Finished running in 3.028ms
+Generating and Compiling example_mats_med/tri/p2/williams-shunn/m132.txt
+Running example_mats_med/tri/p2/williams-shunn/m132.txt
+Finished running in 2.304ms
+Generating and Compiling example_mats_med/tri/p2/williams-shunn/m460.txt
+Running example_mats_med/tri/p2/williams-shunn/m460.txt
+Finished running in 2.771ms
+Generating and Compiling example_mats_med/tri/p3/williams-shunn/m0.txt
+Running example_mats_med/tri/p3/williams-shunn/m0.txt
+Finished running in 3.892ms
+Generating and Compiling example_mats_med/tri/p3/williams-shunn/m3.txt
+Running example_mats_med/tri/p3/williams-shunn/m3.txt
+Finished running in 3.722ms
+Generating and Compiling example_mats_med/tri/p3/williams-shunn/m6.txt
+Running example_mats_med/tri/p3/williams-shunn/m6.txt
+Finished running in 5.701ms
+Generating and Compiling example_mats_med/tri/p3/williams-shunn/m132.txt
+Running example_mats_med/tri/p3/williams-shunn/m132.txt
+Finished running in 5.542ms
+Generating and Compiling example_mats_med/tri/p3/williams-shunn/m460.txt
+Running example_mats_med/tri/p3/williams-shunn/m460.txt
+Finished running in 6.329ms
+Generating and Compiling example_mats_med/tri/p4/williams-shunn/m0.txt
+Running example_mats_med/tri/p4/williams-shunn/m0.txt
+Finished running in 6.226ms
+Generating and Compiling example_mats_med/tri/p4/williams-shunn/m3.txt
+Running example_mats_med/tri/p4/williams-shunn/m3.txt
+Finished running in 6.27ms
+Generating and Compiling example_mats_med/tri/p4/williams-shunn/m6.txt
+Running example_mats_med/tri/p4/williams-shunn/m6.txt
+Finished running in 10.017ms
+Generating and Compiling example_mats_med/tri/p5/williams-shunn/m0.txt
+Running example_mats_med/tri/p5/williams-shunn/m0.txt
+Finished running in 9.869ms
+Generating and Compiling example_mats_med/tri/p5/williams-shunn/m3.txt
+Running example_mats_med/tri/p5/williams-shunn/m3.txt
+Finished running in 9.869ms
+Generating and Compiling example_mats_med/tri/p5/williams-shunn/m6.txt
+Running example_mats_med/tri/p5/williams-shunn/m6.txt
+Finished running in 15.357ms
+Generating and Compiling example_mats_med/tri/p6/williams-shunn/m0.txt
+Running example_mats_med/tri/p6/williams-shunn/m0.txt
+Finished running in 14.794ms
