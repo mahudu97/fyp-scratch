@@ -1,7 +1,0 @@
-#!/bin/bash
-#$ -N run_benchmark
-#$ -wd /share/data/mehedi/fyp-scratch
-#$ -l newnode
-
-export LD_LIBRARY_PATH=/share/data/mehedi/OpenBlas-build/lib:$LD_LIBRARY_PATH
-bin/benchmark 300 
