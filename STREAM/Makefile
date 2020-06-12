@@ -11,4 +11,4 @@ clean:
 
 # an example of a more complex build line for the Intel icc compiler
 stream.icc: stream.c
-	icc -Ofast -ipo -static -mskylake-avx512 -xskylake-avx512 -fopenmp -DSTREAM_ARRAY_SIZE=80000000 stream.c -o stream_c_no_MT.exe
+	icc -Ofast -ipo -static -march=skylake-avx512 -qopt-zmm-usage=high -fopenmp -mavx512f -mavx512cd -mavx512vl -mavx512dq -mavx512bw -mfma -DSTREAM_ARRAY_SIZE=80000000 stream.c -o stream_c_no_MT.exe
