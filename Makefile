@@ -1,7 +1,7 @@
 CFLAGS = -std=c11
-CFLAGS += -O3 #-g
+CFLAGS += -O3 # -g
 CFLAGS += -pthread -D_GNU_SOURCE -DNDEBUG
-CFLAGS += -fopenmp
+CFLAGS += -qopenmp
 ICFLAGS = -mavx512f -mavx512cd -mavx512vl -mavx512dq -mavx512bw -mfma
 ICFLAGS += -march=skylake-avx512
 ICFLAGS += -qopt-zmm-usage=high
