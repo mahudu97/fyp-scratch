@@ -26,6 +26,9 @@ GIMMIK_CXX = icc
 bin/benchmark_upstream : src/benchmark_upstream.c src/common.c
 	$(CXX) $(CFLAGS) $(CFLAGS_UPSTREAM) $^ $(LDFLAGS_UPSTREAM) -o $@
 
+bin/measure_jit : src/measure_jit.c src/common.c
+	$(CXX) $(CFLAGS) $(CFLAGS_UPSTREAM) $^ $(LDFLAGS_UPSTREAM) -o $@
+
 bin/benchmark_local : src/benchmark_local.c src/common.c
 	$(CXX) $(CFLAGS) ${CFLAGS_LOCAL} $^ $(LDFLAGS_LOCAL) -o $@
 
