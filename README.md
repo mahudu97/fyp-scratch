@@ -1,3 +1,6 @@
+# Deprecated
+replaced by https://github.com/mahudu97/RegpackTester
+
 # fyp-scratch
 Scratch repo for ongoing EIE FYP work on improving sparse Matrix Multiplication in LIBXSMMM : https://github.com/mahudu97/libxsmm
 
